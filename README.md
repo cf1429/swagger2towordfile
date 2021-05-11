@@ -48,3 +48,8 @@
 #### 版本：SwaggerToWord 1.5 (2019-12-18)
 1. 代码梳理和页面美化。
 4. 真诚感谢 [kevin4j](https://github.com/kevin4j)  的代码贡献。
+
+
+
+####导出word版的接口文档
+项目启动后访问http://localhost:8080/toWord，在此页面中点击下载即可将word接口文档下载下来
