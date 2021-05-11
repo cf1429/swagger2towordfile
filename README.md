@@ -52,4 +52,5 @@
 
 
 ####导出word版的接口文档
-项目启动后访问http://localhost:8080/toWord，在此页面中点击下载即可将word接口文档下载下来
+1、项目启动时需要在application中配置自己要导出项目的swagger地址
+2、项目启动后访问http://localhost:8080/toWord，在此页面中点击下载即可将word接口文档下载下来
